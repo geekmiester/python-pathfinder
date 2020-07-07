@@ -1,4 +1,4 @@
-# Pygame Pathfinder
+# Python Pathfinder
 
 Visualise maze generation and pathfinding algorithms with Pygame.
 
